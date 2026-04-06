@@ -8,5 +8,9 @@
 - Me apasiona mucho entrenar y los deportes, principalmente el futbol (Hincha de Boca).
 - Lo que espero de esta cursada es poder aprender nuevos conceptos sobre la programacion y llevarme herramientas nuevas que me sean utiles y las pueda aplicar en mi trabajo.
 - Me gustan los animales, tengo un perro que se llama Benicio.
-#Fotos:
-![benicio](https://github.com/user-attachments/assets/9c01311e-0bda-4ce5-9f1a-bc92bacfc46e)
+
+# Fotos:
+
+![capBen](https://github.com/user-attachments/assets/9c01311e-0bda-4ce5-9f1a-bc92bacfc46e)
+
+![capPers](https://github.com/user-attachments/assets/3c90ff29-1238-47af-bf8c-3c50b2b1844b)
