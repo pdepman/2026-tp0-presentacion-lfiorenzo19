@@ -10,7 +10,6 @@
 - Me gustan los animales, tengo un perro que se llama Benicio.
 
 # Fotos:
+<img src= (https://github.com/user-attachments/assets/6f2844eb-658a-4e23-9d77-a074f6a5a5f1)  width="200" height="auto" alt= capBen>
 
-![capBen](https://github.com/user-attachments/assets/9c01311e-0bda-4ce5-9f1a-bc92bacfc46e)
-
-![capPers](https://github.com/user-attachments/assets/3c90ff29-1238-47af-bf8c-3c50b2b1844b)
+<img src= (https://github.com/user-attachments/assets/a096e17b-3ea4-4cb2-9689-88775dab3320)  width="200" height="auto" alt= capPers>
